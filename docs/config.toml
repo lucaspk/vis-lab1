@@ -1,7 +1,7 @@
-baseURL = "https://lucaspk.github.io/vis-lab1"
+baseURL = "https://lucaspk.github.io/vis-lab1/"
+publishDir = "docs"
 languageCode = "en"
 title = "Lab 01 - Parte 3"
-publishDir = "docs"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 pygmentsuseclasses = true
