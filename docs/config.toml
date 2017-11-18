@@ -7,7 +7,7 @@ enableRobotsTXT = true
 pygmentsuseclasses = true
 PygmentsCodeFences = true
 canonifyurls = true
-draft = false
+
 # Disqus Username
 disqusShortname = "disqus_shortname"
 
