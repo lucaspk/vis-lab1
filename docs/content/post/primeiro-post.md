@@ -1,5 +1,6 @@
 ---
 title: Lab 01 - Parte 03
+draft: false
 ---
 
 Em todos os casos optei por usar a mediana por ser uma medida mais robusta e não sofrer com os efeitos dos outliers tal como a média.
