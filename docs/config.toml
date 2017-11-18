@@ -1,4 +1,4 @@
-baseURL = "https://lucaspk.github.io/vis-lab1/"
+baseURL = "https://lucaspk.github.io/vis-lab1"
 languageCode = "en"
 title = "Lab 01 - Parte 3"
 publishDir = "docs"
